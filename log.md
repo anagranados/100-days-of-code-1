@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 Day 1: December 14, 2018
-Today's Progress: Did a tribute Page for the Free Code Camp Challenge HTML5 and CSS3
+#Today's Progress:# Did a tribute Page for the Free Code Camp Challenge HTML5 and CSS3
 Thoughts: It tooke me less ours than I expected, I was so focused on finish the challenge instead of having more fun doing that
 Link to work: https://codepen.io/ana-belkis-granados-arozarena/pen/MZyYzx
 
