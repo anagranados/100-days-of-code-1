@@ -14,11 +14,12 @@
 **Today's Progress:** Start the survey form challenge of FreeCodeCamp. The html5 file is done, tomorrow I’ll try to code with CSS3 to add the style. Fortunately I took a lot of notes while study the lessons.
 
 **Thoughts:** Had to study flexbox and grid again to decide if I have to use one of them, finally I used flexbox on the form. I learned to use it in this case.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 3: December 16, 2018**
 
-**Today's Progress:* Working on Survey Form from Free Code Camp Challenges.
+**Today's Progress:** Working on Survey Form from Free Code Camp Challenges.
 
 **Thoughts:** A little bit frustrated today because I didn't finish to style the survey form challenge of freeCodeCamp the problem is that I don't know if I'll use #flexbox or #grid or maybe both.
 
@@ -36,6 +37,7 @@ Thoughts: It wasn't completaly responsive.
 **Today's Progress:** Starting to build a Product Landing Page in freeCodeCamp.
 
 **Thoughts:** I decided to create a virtual Tea Shop, it’s so fun to style a page with all the properties that I learnt before specially my lovely flexbox !
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 6: December 19, 2018**
@@ -66,7 +68,8 @@ Thoughts: It wasn't completaly responsive.
 ----------------------------------------------------------------------------------------------------------------------
 **Day 10: December 22, 2018**
 
-**Today's Progress:** I just trying to understand better and better #responsive web design. Read some articles and watch the playlist tutorial of responsive web design from the @thenetninjauk! 
+**Today's Progress:**  I just trying to understand better and better responsive web design. Read some articles and watch the playlist tutorial of responsive web design from the @thenetninjauk! 
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 11: December 24, 2018**
@@ -100,19 +103,22 @@ Thoughts: It wasn't completaly responsive.
 
 **Today's Progress:** Start to follow the 5 video tutorial to build a responsive web site from scrath.
 
-**Thoughts:** Had so much fun following the playlist of @KevinJPowell  on YouTube about how to create responsive web design, I learned a lot with that. Hope to put his lessons into practice in the very next future.
+**Thoughts:**  Had so much fun following the playlist of KevinJPowell  on YouTube about how to create responsive web design, I learned a lot with that. Hope to put his lessons into practice in the very next future.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 16: December 29, 2018**
 
 **Today's Progress:** I learned to center an element just to put right:0; left:0; in my #CSS stylesheet.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 17: December 30, 2018**
 
 **Today's Progress:** Cointinue to style the Product Landing Page.
 
-**Thoughts:** So interesting to see how my Product landing page start to appear in a mobile in a responsive way! I'm realy happy with that. I'll continue tomorrow
+**Thoughts:** So interesting to see how my Product landing page start to appear in a mobile in a responsive way! I'm realy happy with that. I'll continue tomorrow.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 18: December 31, 2018**
@@ -120,6 +126,7 @@ Thoughts: It wasn't completaly responsive.
 **Today's Progress:** Last day of the year 2018, I learnt how to code a responsive header in html5 and CSS3.
 
 **Thoughts:** Nothing can’t stop me now.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 19: January 2, 2019 **
@@ -147,7 +154,9 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 22: January 5, 2019**
 
 **Today's Progress:** Start to rebuild my Tribute page trying to make it responsive. I want to put an image as a background page.
+
 **Thoughts:** It was struggled with the size of the screen
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **Day 22: January 6, 2019**
