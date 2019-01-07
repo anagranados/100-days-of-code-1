@@ -164,3 +164,15 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** Learned how to do a Responsive HTML & CSS Side Menu with some some Java Script. I follow a tut from Traversy Media
 
 **Thoughts:** It always easy to follow a tut, but I want to understand all the property that he used on the css style sheet.
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 23: January 7 , 2019**
+
+
+**Today's Progress:** Today I learned how to put element side by side on CSS thanks to the property display with the value inline-block I also watch some  responsive web-site of famous artits to catch some ideas. 
+
+
+**Thoughts:** It took me more than half an hour to undertand how to put an element next to each other. The nex step in my Tripute Page trying to make it responsive it is to put the Menu when the screen size is bigger. Now I have a lot of ideas but I dont know where to start to build my sites for excercising 
+
