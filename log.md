@@ -176,3 +176,24 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Thoughts:** It took me more than half an hour to undertand how to put an element next to each other. The nex step in my Tripute Page trying to make it responsive it is to put the Menu when the screen size is bigger. Now I have a lot of ideas but I dont know where to start to build my sites for excercising 
 
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 24: January 8, 2019**
+
+**Today's Progress:** today I coded for an hour trying to adjust the banner of my tribute page from @freeCodeCamp challenges
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 25: January 9, 2019**
+
+**Today's Progress:** Started the Technical Documentation Page Challenge from FCC.
+
+**Thoughts:** I though it was harder to code it, beacuse I saw in the example the nav bar in the left side of the secreen, it is possible to do it thanks to the new property for me overflox-x and overflox-y with the values hidden and auto respectivamente. 
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 26: January 10, 2019**
+
+**Today's Progress:** I finished to code the Technical DOcumentation Page
+
+**Link to work**:  https://codepen.io/ana-belkis-granados-arozarena/pen/jXeELK
