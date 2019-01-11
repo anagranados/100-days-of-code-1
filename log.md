@@ -197,3 +197,13 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I finished to code the Technical DOcumentation Page
 
 **Link to work**:  https://codepen.io/ana-belkis-granados-arozarena/pen/jXeELK
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 27: January 1,1 2019**
+
+**Today's Progress:** Add some styles to my Technical Documentation Page, the nav when the screen becomes smaller didnt have an scroll, also the page is very large so I added a button to top.
+
+**Thoughts:** Added some javaScript code but I didnt understand it, I just copy and paste from the www3school website, later I will understand it better. The interesting thing is that I can copy  and I understand the right place to paste in my code to let it work.
+
+**Link to work**: https://codepen.io/ana-belkis-granados-arozarena/full/jXeELK
