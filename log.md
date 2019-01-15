@@ -200,10 +200,36 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 ----------------------------------------------------------------------------------------------------------------------
 
-**Day 27: January 1,1 2019**
+**Day 27: January 11, 2019**
 
 **Today's Progress:** Add some styles to my Technical Documentation Page, the nav when the screen becomes smaller didnt have an scroll, also the page is very large so I added a button to top.
 
 **Thoughts:** Added some javaScript code but I didnt understand it, I just copy and paste from the www3school website, later I will understand it better. The interesting thing is that I can copy  and I understand the right place to paste in my code to let it work.
 
 **Link to work**: https://codepen.io/ana-belkis-granados-arozarena/full/jXeELK
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 28: January 12, 2019**
+
+**Today's Progress:** I watched some video tutorials today trying to understand if is possible to rebuild my Technical Documentation Page but using “flexbox”, new challenge for me
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 29: January 13, 2019**
+
+**Today's Progress:** I rebuild the Technical Documentation Page using flexbox.
+
+**Thoughts:** I did it in less time than I expected, I was just curious about to rebuild the same page with different way.
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 30: January 14, 2019**
+
+**Today's Progress:** Today I added more style to my Technical Documentation Page, last thing was fix the header on the top. I also read articles and watched some video tutorials about CSS prefix
+
+**Thoughts:** I undertand about CSS prefix, but the thing that I wanted to fix it was difficult to undertand for me. The links in the list of the Technical Documentation Page does not work, also the buttom is hidden when I use Safari.
+
+**Link to work**: https://codepen.io/ana-belkis-granados-arozarena/pen/BvvzMa
