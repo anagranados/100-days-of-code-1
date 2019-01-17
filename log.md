@@ -233,3 +233,19 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Thoughts:** I undertand about CSS prefix, but the thing that I wanted to fix it was difficult to undertand for me. The links in the list of the Technical Documentation Page does not work, also the buttom is hidden when I use Safari.
 
 **Link to work**: https://codepen.io/ana-belkis-granados-arozarena/pen/BvvzMa
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 31: January 15, 2019**
+
+**Today's Progress:** Today I started the Personal Portfolio of Free Code Camp Challenge, I coded of the html file in less time that I excpected. I also check a lot of portfolios examples on internet.
+
+**Thoughts:** It took me more than an hour to choose the combinations of colors for the personal portfolio, seems an easy arguments but it is not, beacuase all the information in the website has to be in the right positions, margins etc, to atract/catchs the users.
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 32: January 16, 2019**
+
+**Today's Progress:** I watched a video for undertand better how to create a perfect portfolio. I started to style mine in a responsive way, first I am styling it in a mobile version after that I will start the desktop/tabblet version.
+
+**Thoughts:** I decided to style my personal portfolio with the colors that I think are female and elegant, they can talk about my personality and also the way that I love to work with color design.
