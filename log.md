@@ -249,3 +249,11 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I watched a video for undertand better how to create a perfect portfolio. I started to style mine in a responsive way, first I am styling it in a mobile version after that I will start the desktop/tabblet version.
 
 **Thoughts:** I decided to style my personal portfolio with the colors that I think are female and elegant, they can talk about my personality and also the way that I love to work with color design.
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 33: January 17, 2019**
+
+**Today's Progress:** Today I applied more visual design to my personal portafolio. I learnt different ways to center elements inside their “father” and I also install an extension of googlechrome to make a screenshot.
+
+**Thoughts:** I had a struggle with the images, beacuse I wanted all of them with the same size, I controlled with his parent size. I learned how to center an element of many elements inside their father with flexbox, grid, margin, table, absolute positioning. 
