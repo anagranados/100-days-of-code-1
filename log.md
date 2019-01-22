@@ -281,4 +281,5 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Thoughts:**  I am still trying to understand somethings about responsive web design in differents navigators. I think this is the point where I will learn something new after resolve it. The problem was tha I used to run my projects on Code Pen, so I try with another way and works. 
 
 **Link to work** https://codepen.io/ana-belkis-granados-arozarena/pen/GPLKXq?editors=1100
-                 http://childlike-brother.surge.sh/
+
+**Link to work** http://childlike-brother.surge.sh/
