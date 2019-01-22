@@ -257,3 +257,28 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** Today I applied more visual design to my personal portafolio. I learnt different ways to center elements inside their “father” and I also install an extension of googlechrome to make a screenshot.
 
 **Thoughts:** I had a struggle with the images, beacuse I wanted all of them with the same size, I controlled with his parent size. I learned how to center an element of many elements inside their father with flexbox, grid, margin, table, absolute positioning. I had problem with my header, it has to be fixed on the top, I added a pics with the tags figure and figcaption, so the figcaption has to be fixed for the animation that I wanted to do, but it was not possible for me to understand why it is not possible to make two elements with the position absolute in the same layout. I want to understand it in the future. 
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 34: January 19, 2019**
+
+**Today's Progress:** I just code one hour today to apply more visual design to my personal portfolio. I added more links to my footer
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 35: January 20, 2019**
+
+**Today's Progress:** I started to add media queries to my code.
+
+**Thoughts:** I want to undertand what is better: add media queries to the end of the code or maybe when I finish to apply visual design to something.
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 36: January 21, 2019**
+
+**Today's Progress:** Fixing my personal portfolio was my goal today.
+
+**Thoughts:**  I am still trying to understand somethings about responsive web design in differents navigators. I think this is the point where I will learn something new after resolve it. The problem was tha I used to run my projects on Code Pen, so I try with another way and works. 
+
+**Link to work** https://codepen.io/ana-belkis-granados-arozarena/pen/GPLKXq?editors=1100
+                 http://childlike-brother.surge.sh/
