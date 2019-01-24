@@ -283,3 +283,19 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Link to work** https://codepen.io/ana-belkis-granados-arozarena/pen/GPLKXq?editors=1100
 
 **Link to work** http://childlike-brother.surge.sh/
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 37: January 22, 2019**
+
+**Today's Progress:** It was a very interesting day for me, I learnt how to publish a web site  thanks to my friend @josewhitetower, and I started with Javascript Algorithms And Data Structures course of @freeCodeCamp, I am very excited about it.
+
+**Thoughts:** I remembered the data types, how to declare a variable, how to make math operations in JavaScript.
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 38: January 22, 2019**
+
+**Today's Progress:** I continue with basic JavaScript .
+
+**Thoughts:** For now it is very easy to follow the leasons. I remembered a lot of things.
