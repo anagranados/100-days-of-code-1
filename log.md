@@ -299,3 +299,33 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I continue with basic JavaScript .
 
 **Thoughts:** For now it is very easy to follow the leasons. I remembered a lot of things.
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 39: January 25, 2019**
+
+**Today's Progress:** Today I remembered how queues works in Object Oriented Programming, such as adding an item to the beginning,  at the end, how to delete them and also how to store it in a variable. Also remember how local and global variables work
+
+**Thoughts:** Seem so easy to code in JavaSript for now, I think is beacuse of my experience coding in C#. I used to code in C# almost 10 years ago, but it is difficult to forget something that I leart well.
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 40: January 26, 2019**
+
+**Today's Progress:** I  watched today some video tutorial from @thenetninjauk Chanel on YouTube about basic javascript.
+
+ **Thoughts:** Love the way he explain how to code in JavaScript. 
+ 
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 41: January 27, 2019**
+
+**Today's Progress:** Today: comparison operators and else statement in javascript
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 42: January 29, 2019**
+
+**Today's Progress:** I am solving freeCodeCamp javascript challenges from this morning.
+
+ **Thoughts:** Something new for me is building objects in JavaScript. I remembered how to use the structure "if ()", "else if()", "switch ()"
