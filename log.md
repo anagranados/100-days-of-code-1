@@ -340,9 +340,15 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
  ----------------------------------------------------------------------------------------------------------------------
 
-**Day 44: February 30, 2019**
+**Day 44: February 1, 2019**
 
 **Today's Progress:**  I resolved two challenges in @hackerrank and read some JavaScript articles in MDN
 
  **Thoughts:** maybe I can combine my journey in freeCodeCamp with all of these alternatives. The challenges in hackerranks were aboout arrays. I want to know if is very important to know how to work with them nowadays in development world.
+
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 44: February 2, 2019**
+
+**Today's Progress:** Accessing object properties today JavaScript, in Free Code Camp and also I resolved an array challenge again  in @hackerrank
 
