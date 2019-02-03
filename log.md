@@ -337,3 +337,12 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I learned how to publish a web site on GitHub
 
  **Thoughts:** I have to learn how to commi tchanges.
+ 
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 44: February 30, 2019**
+
+**Today's Progress:**  I resolved two challenges in @hackerrank and read some JavaScript articles in MDN
+
+ **Thoughts:** maybe I can combine my journey in freeCodeCamp with all of these alternatives. The challenges in hackerranks were aboout arrays. I want to know if is very important to know how to work with them nowadays in development world.
+
