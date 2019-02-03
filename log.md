@@ -329,3 +329,11 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I am solving freeCodeCamp javascript challenges from this morning.
 
  **Thoughts:** Something new for me is building objects in JavaScript. I remembered how to use the structure "if ()", "else if()", "switch ()"
+
+----------------------------------------------------------------------------------------------------------------------
+
+**Day 43: January 30, 2019**
+
+**Today's Progress:** I learned how to publish a web site on GitHub
+
+ **Thoughts:** I have to learn how to commi tchanges.
