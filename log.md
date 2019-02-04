@@ -348,7 +348,12 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
  ----------------------------------------------------------------------------------------------------------------------
 
-**Day 44: February 2, 2019**
+**Day 45: February 2, 2019**
 
 **Today's Progress:** Accessing object properties today JavaScript, in Free Code Camp and also I resolved an array challenge again  in @hackerrank
 
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 46: February 3, 2019**
+
+**Today's Progress:** Accessing object properties today in JavaScript and also I resolved an array challenge again  in hackerrank 
