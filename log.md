@@ -363,3 +363,11 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 47: February 4, 2019**
 
 **Today's Progress:** Today I learnt the different types of iteration in javascript
+
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 48: February 5, 2019**
+
+**Today's Progress:** I learnt how to create random numbers, I got stuck with generate random numbers with min and max.
+
+ **Thoughts:** Before I will move to EcmaScripts journey in Free Code Camp, I want to excersize better what I already learnt
