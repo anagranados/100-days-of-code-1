@@ -357,3 +357,9 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 46: February 3, 2019**
 
 **Today's Progress:** Accessing object properties today in JavaScript and also I resolved an array challenge again  in hackerrank 
+
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 47: February 4, 2019**
+
+**Today's Progress:** Today I learnt the different types of iteration in javascript
