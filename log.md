@@ -384,4 +384,6 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Day 50: February 7, 2019**
 
-**Today's Progress:** I learnt the differents keywords typeof, this. The methods of the strings: slice, split. I changed my code editor, now I am using VS Code because brackets give me a lot of errors about the lint document.
+**Today's Progress:** I learnt the differents keywords typeof, this. The methods of the strings: slice, split. I changed my code editor, now I am using VS Code because brackets give me a lot of errors about the lint document. I also learnt the methods for arrays sort and reverse.
+
+ **Thoughts:**  I have to say that Free Code Camp is a very good way to learn but this is a second time of my journey with it that I need to combine it with something else to fix all of the knowledge
