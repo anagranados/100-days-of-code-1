@@ -371,3 +371,17 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I learnt how to create random numbers, I got stuck with generate random numbers with min and max.
 
  **Thoughts:** Before I will move to EcmaScripts journey in Free Code Camp, I want to excersize better what I already learnt
+
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+ **Day 49: February 6, 2019**
+ 
+ **Today's Progress:**  Ifinished today #avascript basic in freeCodeCamp. I learnt the key words break and continue for loops thanks to @thenetninjauk video tutorial. Also lear the ternary operators, wich are very useful I think but I prefer the classic way to declare if statement.
+ 
+ **Thoughts:** I want to figure out how can I apply what I learnt in my websites I know it’s depend what I want
+ 
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 50: February 7, 2019**
+
+**Today's Progress:** I learnt the differents keywords typeof, this. The methods of the strings: slice, split. I changed my code editor, now I am using VS Code because brackets give me a lot of errors about the lint document.
