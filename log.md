@@ -387,3 +387,12 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I learnt the differents keywords typeof, this. The methods of the strings: slice, split. I changed my code editor, now I am using VS Code because brackets give me a lot of errors about the lint document. I also learnt the methods for arrays sort and reverse.
 
  **Thoughts:**  I have to say that Free Code Camp is a very good way to learn but this is a second time of my journey with it that I need to combine it with something else to fix all of the knowledge
+ 
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 51: February 7, 2019**
+
+**Today's Progress:** Today I learnt what the DOM is, differents events in JavaScritp, how to create a variables to store the elements id, tag.  How to add and delete elements to/from a DOM. I learnt how to show the date in JS.
+
+ **Thoughts:** today it was a very productive day. I follow a playlist from the Net Ninja and I have to say is the best way for me to learn, following someone that show me how to do things on a video. 
+
