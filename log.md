@@ -390,7 +390,7 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
  ----------------------------------------------------------------------------------------------------------------------
 
-**Day 51: February 7, 2019**
+**Day 51: February 8, 2019**
 
 **Today's Progress:** Today I learnt what the DOM is, differents events in JavaScritp, how to create a variables to store the elements id, tag.  How to add and delete elements to/from a DOM. I learnt how to show the date in JS.
 
