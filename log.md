@@ -396,3 +396,14 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
  **Thoughts:** today it was a very productive day. I follow a playlist from the Net Ninja and I have to say is the best way for me to learn, following someone that show me how to do things on a video. 
 
+ ----------------------------------------------------------------------------------------------------------------------
+
+**Day 52: February 9, 2019**
+
+**Today's Progress:** Learnt about accesing form elements and validation. I finished the playlist of the Net ninja Chanel on youtube. I learnt a lot with it.
+
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 53: February 10, 2019**
+
+**Today's Progress:** Learnt about ECMAScript and the differences between var, let and const in free Code camp
