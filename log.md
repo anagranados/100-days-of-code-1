@@ -406,4 +406,6 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
 **Day 53: February 10, 2019**
 
-**Today's Progress:** Learnt about ECMAScript and the differences between var, let and const in free Code camp
+**Today's Progress:** Learnt about ECMAScript and the differences between var, let and const in free Code camp. Also learnt about what arrow function is and the higher order functions, wich I understand is to return, change, and take a function inside another function.
+
+ **Thoughts:** ES6 make me thing that is not easy language to learn, I need to be concentrate and also do a lot of challenge to understand it better.
