@@ -438,6 +438,12 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
 **Day 57: February 14, 2019**
 
-**Today's Progress:**  I Learnt about the advantages and pitfalls of Arrow functions in #javascript, also differents concepts like 'context', 'scope', 'stric mode', 'closure'. 
+**Today's Progress:**  I Learnt about the advantages and pitfalls of Arrow functions in #javascript, also differents concepts like 'context', 'scope', 'stric mode', 'closure'. Spread operator. Strict mode in JS
 
 **Thoughts:** My steps in JS are very slow
+
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 57: February 15, 2019**
+
+**Today's Progress:** Destructuring sintax, assignment, Destructure nested object into variables. I read the articles in MDN about the methods apply, call and bind, but I have to code something to undertand it better, it is not clear for me.
