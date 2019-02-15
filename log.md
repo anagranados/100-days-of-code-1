@@ -434,3 +434,10 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Thoughts:**  All the challenges I make in @freeCodeCamp of #ES6 make me Read-Search-Ask , I can not solve the challenges quickly, it took me a lot to understand them.
 
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 57: February 14, 2019**
+
+**Today's Progress:**  I Learnt about the advantages and pitfalls of Arrow functions in #javascript, also differents concepts like 'context', 'scope', 'stric mode', 'closure'. 
+
+**Thoughts:** My steps in JS are very slow
