@@ -426,3 +426,11 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Thoughts:** think they can reduce a lot the lines of code. Watched a tutorial about it 
 
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 56: February 13, 2019**
+
+**Today's Progress:** Today I learnt about IIFE. They can be declare with the parenteses at the end.
+
+**Thoughts:**  All the challenges I make in @freeCodeCamp of #ES6 make me Read-Search-Ask , I can not solve the challenges quickly, it took me a lot to understand them.
+
