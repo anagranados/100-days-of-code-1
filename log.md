@@ -444,6 +444,6 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
  ----------------------------------------------------------------------------------------------------------------------
  
-**Day 57: February 15, 2019**
+**Day 58: February 15, 2019**
 
 **Today's Progress:** Destructuring sintax, assignment, Destructure nested object into variables. I read the articles in MDN about the methods apply, call and bind, but I have to code something to undertand it better, it is not clear for me.
