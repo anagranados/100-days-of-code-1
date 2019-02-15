@@ -409,3 +409,13 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** Learnt about ECMAScript and the differences between var, let and const in free Code camp. Also learnt about what arrow function is and the higher order functions, wich I understand is to return, change, and take a function inside another function.
 
  **Thoughts:** ES6 make me thing that is not easy language to learn, I need to be concentrate and also do a lot of challenge to understand it better.
+ 
+  ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 54: February 11, 2019**
+
+**Today's Progress:** Higher order functions in JS
+
+**Thoughts:** Scares about all the concepts that I have to learn, seems that the journey is larger than before.
+
+
