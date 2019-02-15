@@ -418,4 +418,11 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Thoughts:** Scares about all the concepts that I have to learn, seems that the journey is larger than before.
 
+  ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 55: February 12, 2019**
+
+**Today's Progress:**  I continued today with @freeCodeCamp ES6 course, learnt more about arrow functions.
+
+**Thoughts:** think they can reduce a lot the lines of code. Watched a tutorial about it 
 
