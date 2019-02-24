@@ -447,3 +447,15 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 58: February 15, 2019**
 
 **Today's Progress:** Destructuring sintax, assignment, Destructure nested object into variables. I read the articles in MDN about the methods apply, call and bind, but I have to code something to undertand it better, it is not clear for me.
+
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 59: February 16, 2019**
+
+**Today's Progress:** Destructuring Assignment today again. I just resolve a challenge from freeCodeCamp 
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 60: February 17, 2019**
+
+**Today's Progress:** Today I learnt how to create strings using templates literals, despite I didn't pass the challenge about it on freeCodeCamp, seems like still it has a bug according waht I read on the forum.I watched a video on the @traversy chanel, very good
