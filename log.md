@@ -458,4 +458,17 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
 **Day 60: February 17, 2019**
 
-**Today's Progress:** Today I learnt how to create strings using templates literals, despite I didn't pass the challenge about it on freeCodeCamp, seems like still it has a bug according waht I read on the forum.I watched a video on the @traversy chanel, very good
+**Today's Progress:** Today I learnt how to create strings using templates literals, despite I didn't pass the challenge about it on freeCodeCamp, seems like still it has a bug according waht I read on the forum.I watched a video on the @traversy chanel, very good.
+
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 61: February 18, 2019**
+
+**Today's Progress:** Little time for code today but I managed to at least make 3 challenges and watched a tutorial about template literals. Also learnt how to define a constructor function in JS.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 62: February 20, 2019**
+
+**Today's Progress:** : I didn't code at all yesterday but today I read an article in @Medium about the keyword 'this' in #javascript and also I learnt about the creation of classes and constructors, getters and setters in challenges of @freeCodeCamp . 
+
