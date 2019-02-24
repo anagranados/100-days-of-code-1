@@ -470,5 +470,34 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
 **Day 62: February 20, 2019**
 
-**Today's Progress:** : I didn't code at all yesterday but today I read an article in @Medium about the keyword 'this' in #javascript and also I learnt about the creation of classes and constructors, getters and setters in challenges of @freeCodeCamp . 
+**Today's Progress:** I didn't code at all yesterday but today I read an article in Medium about the keyword 'this' in #javascript and also I learnt about the creation of classes and constructors, getters and setters in challenges of freeCodeCamp . 
 
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 63: February 21, 2019**
+
+**Today's Progress:** Learnt about import and export in JS
+
+**Thoughts:** Import and export in javascript, they have the same meaning as in real life, so I think is easy to understand their mission in this world. Next stop Regular expression in @freeCodeCamp.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 64: February 22, 2019**
+
+**Today's Progress:** I learnt about regular expressions today, specially the method test and match 
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 65: February 23, 2019**
+
+**Today's Progress:** I solve a challenge in freeCodeCamp and watched a tutorial on thenetninjauk Chanel about regex in javascript
+
+**Thoughts:** Regular expression seems easy to understand for me and I think they are very important to validate information in a form. Next wednesdays I hace a drive  licence test, so I am very focus on it. After wednesday I think I will be more concentrate in my journey of learning how to code 
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 66: February 24, 2019**
+
+**Today's Progress:** I am following the playlist of Regular Expressions of the @thenetninjauk channel. Learnt today about metacharacters and special characters, very interesting!
+
+**Thoughts:** I have to say that solve challenges on freeCodeCamp it is not enough for me to learn a programming lenguage, I have to solve others challenges and watch tutprials to understand better. So I think when I finished with regular expression I will comeback to ES6 or maybe I will stop it and comeback.
