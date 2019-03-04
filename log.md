@@ -500,4 +500,37 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Today's Progress:** I am following the playlist of Regular Expressions of the @thenetninjauk channel. Learnt today about metacharacters and special characters, very interesting!
 
-**Thoughts:** I have to say that solve challenges on freeCodeCamp it is not enough for me to learn a programming lenguage, I have to solve others challenges and watch tutprials to understand better. So I think when I finished with regular expression I will comeback to ES6 or maybe I will stop it and comeback.
+**Thoughts:** I have to say that solve challenges on freeCodeCamp it is not enough for me to learn a programming lenguage, I have to solve others challenges and watch tutorials to understand better. So I think when I finished with regular expression I will comeback to ES6 or maybe I will stop it and comeback. I just realized that I can't continue the #regex course on the @thenetninjauk channel because I still lack the basic knowledge of the DOM 
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 67: February 26, 2019**
+
+**Today's Progress:** I started to follow the course about the DOM thanks to  @thenetninjauk channel. I learnt about nodes, how to modify text, grap with querySelector.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 68: February 27, 2019**
+
+**Today's Progress:** I continue learning about how to manipulate the DOM in javascript, I think it is just a time to watch a tutorials and read concepts. I learnt about DOM event, traversal.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 69: March 1, 2019**
+
+**Today's Progress:** It was a good day of my JavaScript journey. I learnt how to use GitHub on VS Code. Also learnt how to create elements, add classes, change attributes and checkbox events.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 70: March 2, 2019**
+
+**Today's Progress:** My little step today in#JavaScript, learnt about search filter and tabbed content.
+
+**Thoughts:** The playlist of @thenetninjauk channel help me a lot to understand how to manipulate the DOM
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 71: March 3, 2019**
+
+**Today's Progress:** I finished today the course about the DOM from @thenetninjauk channel Today I learned about DOM content load event, 
+**Thoughts:**  great experience, 100% recommend for new developers Now I will move back again to regular expression. 
