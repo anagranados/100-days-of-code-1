@@ -534,3 +534,31 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Today's Progress:** I finished today the course about the DOM from @thenetninjauk channel Today I learned about DOM content load event, 
 **Thoughts:**  great experience, 100% recommend for new developers Now I will move back again to regular expression. 
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 72: March 5, 2019**
+
+**Today's Progress:** I came back to regular expressions today, for more practicing I made some challenges on @freeCodeCamp
+
+**Thoughts:** Seems like regex are not so hard to learn.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 73: March 6, 2019**
+
+**Today's Progress:** I practiced regex on @freeCodeCamp , learnt also about positive lookahead and negative lookahead.
+
+**Thoughts:** I have to say I do not understand it very well.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 74: March 7, 2019**
+
+**Today's Progress:**  I learnt today about the "keyup" event , coded a validate function and call it inside another function
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 75: March 7, 2019**
+
+**Today's Progress:**  I finished today the course of regex thanks to @thenetninjauk. Also learned about capturing groups
