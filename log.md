@@ -533,6 +533,7 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 71: March 3, 2019**
 
 **Today's Progress:** I finished today the course about the DOM from @thenetninjauk channel Today I learned about DOM content load event, 
+
 **Thoughts:**  great experience, 100% recommend for new developers Now I will move back again to regular expression. 
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -571,6 +572,14 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 ----------------------------------------------------------------------------------------------------------------------
  
-**Day 77: March 8, 2019**
+**Day 77: March 10, 2019**
 
 **Today's Progress:** I started the Debugging topic today in @freeCodeCamp, did some challenges.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 78: March 11, 2019**
+
+**Today's Progress:** Today I remembered how attributes selectors and templates literals are used by applying them in the first challenge of #javascript30, I used the audio, kbd tag, data and keycode attribute  for the first time.
+
+**Thoughts:** I am so far to do something like this projects. I can follow, and also do it, but I can not do it by myself yet.
