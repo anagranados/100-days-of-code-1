@@ -569,4 +569,8 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Today's Progress:** I’m trying to learn something new everyday. Today I learnt about the method trim and replace using regex in JavaScript, finished this topic today in @freeCodeCamp
 
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 77: March 8, 2019**
 
+**Today's Progress:** I started the Debugging topic today in @freeCodeCamp, did some challenges.
