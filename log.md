@@ -583,3 +583,9 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** Today I remembered how attributes selectors and templates literals are used by applying them in the first challenge of #javascript30, I used the audio, kbd tag, data and keycode attribute  for the first time.
 
 **Thoughts:** I am so far to do something like this projects. I can follow, and also do it, but I can not do it by myself yet.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 79: March 12, 2019**
+
+**Today's Progress:** it was a very long day for me with a lot of thing to do, not too much code unfortunately, but I studied basic javascript again with Grasshopper app while traveling by train. I watched the second challenge of #javascript30, but I have to watch it again.
