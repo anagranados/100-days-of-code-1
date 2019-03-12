@@ -562,3 +562,11 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 75: March 7, 2019**
 
 **Today's Progress:**  I finished today the course of regex thanks to @thenetninjauk. Also learned about capturing groups
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 76: March 8, 2019**
+
+**Today's Progress:** I’m trying to learn something new everyday. Today I learnt about the method trim and replace using regex in JavaScript, finished this topic today in @freeCodeCamp
+
+
