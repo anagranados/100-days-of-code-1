@@ -589,3 +589,18 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 79: March 12, 2019**
 
 **Today's Progress:** it was a very long day for me with a lot of thing to do, not too much code unfortunately, but I studied basic javascript again with Grasshopper app while traveling by train. I watched the second challenge of #javascript30, but I have to watch it again.
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 80: March 14, 2019**
+
+**Today's Progress:** Followed the second project of #javascript30.  
+
+**Thoughts:**  I can not understand yet how the cubic-bezier works, it hard to me, I want to try to understand instead of search some information about it I want to add some new functionalities to the clock. 
+
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 81: March 15, 2019**
+
+**Today's Progress:** I add more styles to the clock and also add two buttons. I want to tabbed the content. It work but not perfetly yet. Work with the interval again and setTime out. When the user click one button I want to show and clock and so on with the another. I inspired to me the DOM challenge of the ninja course. Help me to undertand how to tab content.
+
