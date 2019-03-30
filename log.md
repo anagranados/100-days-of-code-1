@@ -610,7 +610,7 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
  **Today's Progress:** I added a tabbed content  to my JS and CSS clock of #javascript30 thanks to the previuos tutorial made wiht the net ninja.
  
- **Thoughts:**: I feel so happy with this little step, because I learned that I can combined the thing learned.
+ **Thoughts:** I feel so happy with this little step, because I learned that I can combined the thing learned.
  
  ----------------------------------------------------------------------------------------------------------------------
  
@@ -618,8 +618,16 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
  **Today's Progress:** I learned today how to update CSS variables with javascript, following the 3rd #javascript30 challenge of @wesbos. Also worked again with object dataset.
  
-  ----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
  
 **Day 84: March 22, 2019**
 
  **Today's Progress:**  I learned about debugging before I knew it’s name is debugging.The challenges in @freeCodeCamp seems to me very clear to understand it deeper 
+ 
+-----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 85-86: March 28, 2019**
+
+ **Today's Progress:** I followed the tutorial 4 of #JavaScript30 about the method reduce, sort, filter and map. I have to practice more this until I feel confortable. 
+ 
+  **Thoughts:** I traveled to another city for job so I lost the desire to learn something new everyday. I worked more than 12 hours per day as an actress, I feel confused with the dev carrer and also with actress carrer. I am trying to ricover the desire to become a front-end developer, specially now beacuse next Monday I have my first interview with the SINERGEST company in Lucca City, so I will talk with them and convince them that I can do the internship with the company and learn toguether in the best way.
