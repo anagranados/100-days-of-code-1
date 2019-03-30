@@ -604,3 +604,16 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Today's Progress:** I add more styles to the clock and also add two buttons. I want to tabbed the content. It work but not perfetly yet. Work with the interval again and setTime out. When the user click one button I want to show and clock and so on with the another. I inspired to me the DOM challenge of the ninja course. Help me to undertand how to tab content.
 
+----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 82: March 16, 2019**
+
+ **Today's Progress:** I added a tabbed content  to my JS and CSS clock of #javascript30 thanks to the previuos tutorial made wiht the net ninja.
+ 
+ **Thoughts:**: I feel so happy with this little step, because I learned that I can combined the thing learned.
+ 
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 83: March 18, 2019**
+
+ **Today's Progress:** I learned today how to update CSS variables with javascript, following the 3rd #javascript30 challenge of @wesbos. Also worked again with object dataset
