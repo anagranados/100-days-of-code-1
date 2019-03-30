@@ -616,4 +616,10 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
 **Day 83: March 18, 2019**
 
- **Today's Progress:** I learned today how to update CSS variables with javascript, following the 3rd #javascript30 challenge of @wesbos. Also worked again with object dataset
+ **Today's Progress:** I learned today how to update CSS variables with javascript, following the 3rd #javascript30 challenge of @wesbos. Also worked again with object dataset.
+ 
+  ----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 84: March 22, 2019**
+
+ **Today's Progress:**  I learned about debugging before I knew it’s name is debugging.The challenges in @freeCodeCamp seems to me very clear to understand it deeper 
