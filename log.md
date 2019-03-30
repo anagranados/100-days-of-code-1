@@ -637,3 +637,9 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 87: March 29, 2019**
 
  **Today's Progress:** I practiced more with Filter method today. Added 4 news functions to the #javascript30 tutorial 4.
+ 
+ -----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 88: March 30, 2019**
+
+ **Today's Progress:** I Practiced more with the map method, it is similar to filter but not the same. I learned the difference between them with the tutorial 4 of #javascript30 adding new functions.
