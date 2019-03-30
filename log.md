@@ -631,3 +631,9 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  **Today's Progress:** I followed the tutorial 4 of #JavaScript30 about the method reduce, sort, filter and map. I have to practice more this until I feel confortable. 
  
   **Thoughts:** I traveled to another city for job so I lost the desire to learn something new everyday. I worked more than 12 hours per day as an actress, I feel confused with the dev carrer and also with actress carrer. I am trying to ricover the desire to become a front-end developer, specially now beacuse next Monday I have my first interview with the SINERGEST company in Lucca City, so I will talk with them and convince them that I can do the internship with the company and learn toguether in the best way.
+
+-----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 87: March 29, 2019**
+
+ **Today's Progress:** I practiced more with Filter method today. Added 4 news functions to the #javascript30 tutorial 4.
