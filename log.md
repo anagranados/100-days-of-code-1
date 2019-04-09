@@ -643,3 +643,9 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 88: March 30, 2019**
 
  **Today's Progress:** I Practiced more with the map method, it is similar to filter but not the same. I learned the difference between them with the tutorial 4 of #javascript30 adding new functions.
+
+ -----------------------------------------------------------------------------------------------------------------------
+ 
+**Day 89: March 31, 2019**
+
+**Today's Progress:** I spent 2 hours studying the possibles questions for a webdev junior position interview. I also remembered differents basic concepts about html5 and css3. I want to be hired for an internship opportunity 
