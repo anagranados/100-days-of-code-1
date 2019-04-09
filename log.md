@@ -657,3 +657,9 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Today's Progress:** I followed today the tutorial number 5 of #javascript30 and learned about the toggle method, I want to add some functions to this project but I get frustated because I tried in some ways and doesn't work.
 
 **Thoughts:** I got the opportunity to have an interview with Gabriele Mezzeti at SINERGEST company for the developer junior position. I solve a test at 50%, it was long: SQL, HTML, CSS, JavaScript and C#, I just did the web part, and I dont expect that they contact me again.
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 91-92: April 2, 2019**
+
+**Today's Progress:** Added new functionalities to the exercise 5 of #javascript30. I learned about the add and remove method to the classlist.
