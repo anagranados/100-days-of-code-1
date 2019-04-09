@@ -648,4 +648,12 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
  
 **Day 89: March 31, 2019**
 
-**Today's Progress:** I spent 2 hours studying the possibles questions for a webdev junior position interview. I also remembered differents basic concepts about html5 and css3. I want to be hired for an internship opportunity 
+**Today's Progress:** I spent 2 hours studying the possibles questions for a webdev junior position interview. I also remembered differents basic concepts about html5 and css3. I want to be hired for an internship opportunity.
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 90: April 1, 2019**
+
+**Today's Progress:** I followed today the tutorial number 5 of #javascript30 and learned about the toggle method, I want to add some functions to this project but I get frustated because I tried in some ways and doesn't work.
+
+**Thoughts:** I got the opportunity to have an interview with Gabriele Mezzeti at SINERGEST company for the developer junior position. I solve a test at 50%, it was long: SQL, HTML, CSS, JavaScript and C#, I just did the web part, and I dont expect that they contact me again.
