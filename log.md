@@ -660,16 +660,22 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
  -----------------------------------------------------------------------------------------------------------------------
 
-**Day 91-92: April 2, 2019**
+**Day 91-92: April 3, 2019**
 
 **Today's Progress:** Added new functionalities to the exercise 5 of #javascript30. I learned about the add and remove method to the classlist.
 
  -----------------------------------------------------------------------------------------------------------------------
 
-**Day 93: April 3, 2019**
+**Day 93: April 5, 2019**
 
 **Today's Progress:** I followed a tutorial thanks to @DevEd94 Chanel on YouTube, I learned about the method replace to work with the image gallery.
 
 **Link to the work:**  https://anagranados.github.io/Gallery-Image-JS/
 
 **Thoughts:** I got the opportunity to start an internship with @sinergest. I have to learn #SQL and also C#, big opportunity to grow as a #developer. New #goals ...so excited 
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 94: April 7, 2019**
+
+**Today's Progress:** Learning more about #SQL language, I started to read a Visual Quickstart Guide book, written by Chris Fehily. So interesting that according with #Turing Thesis isn't SQL considerate a complete #language 
