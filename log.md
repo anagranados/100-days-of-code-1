@@ -678,4 +678,16 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
 **Day 94: April 7, 2019**
 
+**Today's Progress:** Today I started studying the basics of #SQL , watching a tutorial made by @freeCodeCamp channel on YouTube, it's part of my preparation to start an internship in @sinergest in a few days 
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 95: April 8, 2019**
+
 **Today's Progress:** Learning more about #SQL language, I started to read a Visual Quickstart Guide book, written by Chris Fehily. So interesting that according with #Turing Thesis isn't SQL considerate a complete #language 
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 96: April 9, 2019**
+
+**Today's Progress:** Many things I remember about the theory of #Database but today I studied the types of relationships: one to one, one to many and many to many, also normalization of #table. One step at a time.
