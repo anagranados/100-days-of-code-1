@@ -691,3 +691,16 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 **Day 96: April 9, 2019**
 
 **Today's Progress:** Many things I remember about the theory of #Database but today I studied the types of relationships: one to one, one to many and many to many, also normalization of #table. One step at a time.
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 97: April 10, 2019**
+
+**Today's Progress:** I learned today about datatypes and some functions in #SQL 
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 98: April 10, 2019**
+
+**Today's Progress:** Today I created a small Database using SQLServer. I learned about comparison op, some keywords such as SELECT, WHERE, ORDER BY, AS. I also created a DB diagram wich I think is a good way to understand better the relationships between the tables
+
