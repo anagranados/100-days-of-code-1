@@ -700,7 +700,21 @@ Thoughts: When I was traveling by train today, I code from my iPhone thank to @C
 
  -----------------------------------------------------------------------------------------------------------------------
 
-**Day 98: April 10, 2019**
+**Day 98: April 11, 2019**
 
-**Today's Progress:** Today I created a small Database using SQLServer. I learned about comparison op, some keywords such as SELECT, WHERE, ORDER BY, AS. I also created a DB diagram wich I think is a good way to understand better the relationships between the tables
+**Today's Progress:** Today I created a small Database using SQLServer. I learned about comparison op, some keywords such as SELECT, WHERE, ORDER BY, AS. I also created a DB diagram wich I think is a good way to understand better the relationships between the tables.
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 99: April 12, 2019**
+
+**Today's Progress:** Today I learned about matching patterns with LIKE, range filtering with BETWEEN, IN, Testing for NULL in SQL using SQLServer.
+
+ -----------------------------------------------------------------------------------------------------------------------
+
+**Day 100: April 13, 2019**
+
+**Today's Progress:** Today I learned about JOINs in SQLServer and I also did some challenges in SoloLearn
+
+**Thoughts:** So happy to accomplish my goal. I wanna thanks to all the nice twitter developer that support me in these period specially to my dear friend @josewhitetower. I want to restart the challenge again. 
 
